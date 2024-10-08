@@ -15,6 +15,14 @@
   --hover-color: #ffffff;
   --border-color: #6f3efe;
 
+  --card-blue-color: #c4d7ff;
+  --card-green-color: #b7ffd2;
+  --card-yellow-color: #f2ffd9;
+
+  --text-card-blue-color: #153375;
+  --text-card-green-color: #124f29;
+  --text-card-yellow-color: #4c651c;
+
   --primary-gradient: linear-gradient(90deg, #2f00ff 25%, #c793fd 50%, #ff6cf5 75%);
 }
 
@@ -50,6 +58,7 @@ body {
   line-height: 1.6;
   font-family:
     Inter,
+    'Raleway',
     -apple-system,
     BlinkMacSystemFont,
     'Segoe UI',
